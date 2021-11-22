@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define MIN 500     		//minimum amount of money the user can send
+#define MIN 500     		         //minimum amount of money the user can send
 #define MAX 5000000			//maximum amount of money the user can send
 
 void send_money();
